@@ -1,0 +1,7 @@
+.list { 
+	max-width: 960px;
+	margin: auto;
+	display: block;
+}
+
+.text { white-space: pre-wrap; }

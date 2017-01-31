@@ -1,0 +1,14 @@
+{
+  "name": "NeighborView",
+  "description": "Explore neighbor places of interest with Twitter images",
+  "start_url": "",
+  "display": "standalone",
+  "orientation": "portrait",
+  "icons": [
+    {
+    	"src": "favicon.png",
+    	"sizes": "48x48 72x72 96x96 128x128 256x256",
+    	"type": "image/png"
+    }
+   ]
+}
